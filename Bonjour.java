@@ -1,6 +1,6 @@
 public class Bonjour{
 
-  public Bonnjour(){
+  public Bonjour(){
     System.out.println("Hello Worl");
   }
 }
